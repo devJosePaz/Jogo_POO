@@ -1,7 +1,7 @@
 class EcoTorcido:
     def __init__(self):
         self.nome = "Eco-Torcido"  # Nome da criatura
-        self.saude = 100            # Saúde inicial
+        self.saude = 150            # Saúde inicial
         self.dano_electrico = 20    # Dano que pode causar
 
     def atacar(self, alvo):

@@ -14,5 +14,5 @@ class Criatura:
 
 
 class ecoDistorcido(Criatura):
-    def corromper(self, protagonista)
+    def corromper(self, protagonista):
         protagonista.sanidade -= self.intensidade_corrupcao
